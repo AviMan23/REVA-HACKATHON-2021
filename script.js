@@ -13,5 +13,5 @@ qrcode.src = url;
 }
 
 function select(el) {
-return document.querySelector(el);
+return document.getElementById(el);
 }
