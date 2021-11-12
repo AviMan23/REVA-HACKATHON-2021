@@ -2,7 +2,7 @@ let qrcode = select("img") ;
 let qrtext = select("textarea") ;
 let qrbtn = select("button");
 
-qrbtn.addEventListener("click", generateQR);
+qrbtn.addEventListener('click', generateQR);
 
 function generateQR(){
 let size="1000x1000";
