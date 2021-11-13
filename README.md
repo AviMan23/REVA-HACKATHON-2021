@@ -2,5 +2,4 @@
 
 ## PROJECT - QRCode generator.
 
-*team members - *
--https://github.com/Anudeep-313
+
